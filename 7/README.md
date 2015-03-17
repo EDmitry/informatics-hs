@@ -1,0 +1,1 @@
+The task is to find the minimum amount of gas you would spend to go from city 1 to city N. It takes full tank to get from one city in another and the price for a tank is fixed for each city.
